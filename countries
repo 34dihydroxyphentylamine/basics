@@ -1,0 +1,7 @@
+countries = [
+    "United States", "Canada", "Brazil", "United Kingdom", "Germany", "France",
+    "India", "China", "Japan", "Russia", "Australia", "Mexico", "Italy", "Spain",
+    "South Korea", "Turkey", "South Africa", "Argentina", "Egypt", "Nigeria",
+    "Saudi Arabia", "Indonesia", "Netherlands", "Sweden", "Norway", "Switzerland",
+    "New Zealand", "Thailand", "Vietnam", "Philippines", "Malaysia", "Poland"
+]
